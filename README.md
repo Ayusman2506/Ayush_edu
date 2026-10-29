@@ -22,3 +22,7 @@ Start the server using the command configured in `package.json`.
 ## Project Status
 
 Currently under development.
+
+## Development Workflow
+
+Features are developed on separate Git branches.
